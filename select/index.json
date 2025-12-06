@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Stay on Course",
+  "base_artist": "ドリームジャーニー (CV. 吉岡茉祐)",
+  "createdAt": "2025-12-06T03:56:09.065677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay On Course",
+      "artist": "The Kid in the Back",
+      "has_synced": true,
+      "path": "select/01_Stay_On_Course_The_Kid_in_the_Back.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay on Course",
+      "artist": "ヴァリアスアーティスツ",
+      "has_synced": true,
+      "path": "select/02_Stay_on_Course_ヴァリアスアーティスツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stay On Course",
+      "artist": "Carter Cook",
+      "has_synced": false,
+      "path": "select/03_Stay_On_Course_Carter_Cook.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay on Course",
+      "artist": "ドリームジャーニー (CV. 吉岡茉祐)",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_on_Course_ドリームジャーニー_(CV._吉岡茉祐).txt"
+    }
+  ]
+}
